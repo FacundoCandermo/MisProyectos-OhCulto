@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Oh_Culto.Application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Oh!Culto.Abstactions\Oh!Culto.Abstactions.csproj" />
+    <ProjectReference Include="..\Oh!Culto.Repository\Oh!Culto.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Oh!Culto.Abstactions/Oh!Culto.Abstactions.csproj" />
+  <Project Path="Oh!Culto.Application/Oh!Culto.Application.csproj" />
+  <Project Path="Oh!Culto.DataAccess/Oh!Culto.DataAccess.csproj" />
+  <Project Path="Oh!Culto.Entities/Oh!Culto.Entities.csproj" />
+  <Project Path="Oh!Culto.Enums/Oh!Culto.Enums.csproj" />
+  <Project Path="Oh!Culto.Repository/Oh!Culto.Repository.csproj" />
+  <Project Path="Oh!Culto.Services/Oh!Culto.Services.csproj" />
+  <Project Path="Oh!Culto.WebApi/Oh!Culto.WebApi.csproj" />
+</Solution>
